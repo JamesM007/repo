@@ -1,1 +1,5 @@
-//james marmer is the best lol
+//hats are lame
+
+public class student(){
+
+}
